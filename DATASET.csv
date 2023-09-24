@@ -1,0 +1,201 @@
+SLNo,Name of Medicine,Symptoms,Dose,Precautions,Main Component
+1,Abhayarishta ,"Arsha, Agnimandya,Udararoga, Vibandha",12-24 ml,NS ,Asava Arista
+2,Amritarishta ,"SarvaJvara, Jirna Jvara",12-24 ml,NS ,Asava Arista
+3,Aragvadharishta ,"Kandu, Tvak Vikara, Vibandha",12-24 ml,NS ,Asava Arista
+4,Aravindasava ,"Balaroga, Balakshaya, Agnimandya, Aruchi",12-24 ml,NS ,Asava Arista
+5,Arjunarishta/Parthadyarishta ,"Hridroga, Hriddrava, Hriddaurbalya, Moha, Murchha",12-24 ml,NS ,Asava Arista
+6,Ashokarishta ,"Asrigdara, Shveta Pradara, Yoniroga",12-24 ml,NS ,Asava Arista
+7,Ashvagandharishta,"Murchha, Apasmara, Shosha, Unmada, Karshya",12-24 ml,NS ,Asava Arista
+8,Balarishta ,"Daurbalya, Vataroga, Agnimandya, Karshya",12-24 ml,NS ,Asava Arista
+9,Chandanasava,"Shukrameha, Mutrakriccha, Hridroga",12-24 ml,NS ,Asava Arista
+10,Dashamularishta,"Vata Vyadhi, Daurbalya, Prasavottara roga",12-24 ml,NS ,Asava Arista
+11,Drakshasava,"Aruchi, Hridroga, Pandu Duarbalya, Kshaya",12-24 ml,NS ,Asava Arista
+12,Draksharishta,"Agnimandya, Kasa, Shvasa, Urahkshata, Kshaya, Malavarodha, Daurbalya",12-24 ml,NS ,Asava Arista
+13,Jirakadyarishta,"Sutikaroga, Agnimandya, Atisara,Grahaniroga",12-24 ml,NS ,Asava Arista
+14,Kanakasava,"Kasa, Shvasa, Rajayakshma, Kshatakshina",12-24 ml,NS ,Asava Arista
+15,Kumaryasava,"Rajodushti, Krichhrartav, Paktishula, Parinamashula",12-24 ml,NS ,Asava Arista
+16,Kutajarishta,"Grahaniroga? Pravahika, Raktatisara, Agnimandya",12-24 ml,NS ,Asava Arista
+17,Khadirarishta,"Tvak Roga, Kushtha, Krimi, Arbuda",12-24 ml,NS ,Asava Arista
+18,Lodhrasava/Rodh rasava,"Prameha, Pradara, Arsha Garbhasayaroga",12-24 ml,NS ,Asava Arista
+19,Lohasava,"Pandu, Kamala, Shotha, Hridroga, Daurbalya",12-24 ml,NS ,Asava Arista
+20,Mustakarishta,"Agnimandya, Ajirna, Grahaniroga, Visuchika",12-24 ml,NS ,Asava Arista
+21,Pippalyadyasava,"Grahaniroga, Agnimandya, Gulma, Udararoga",12-24 ml,NS ,Asava Arista
+22,Rohitakarishta,"Pliha, Udararoga, Gulma, Kamala",12-24 ml,NS ,Asava Arista
+23,Sarasvatarishta,"Apasmara, Manasa Dosha, Smritibhransha, Udvega",12-24 ml,NS ,Asava Arista
+24,Ushirasava,"Pittajaroga, Daha, Trisha, Pittaja Netravyadhi",12-24 ml,NS ,Asava Arista
+25,Vasakasava,"Kasa, Shvasa, Raktapitta",12-24 ml,NS ,Asava Arista
+26,Punarnavasava,"Shotha, Pliha- Yakridroga, Mutraroga",12-24 ml,NS ,Asava Arista
+27,Arka Yavani/Arka Ajvayana,"Trikshula, Agnimandya, Anaha",10 - 25 ml,NS ,Arka Kalpana
+28,Arka Shatpushpa/ Mishr eyarka,"Mandagni, Adhamana, Shula, Krimi,Yonishula",11 - 25 ml,NS ,Arka Kalpana
+29,Arka Pudina,"Chhardi, Ajirna, Udarashula, Agnimandya",12 - 25 ml,NS ,Arka Kalpana
+30,Agastya Haritaki / Agastya Rasayana,"Hikka, Kasa, Shvasa, Rasayana",5 - 15 gm,NS ,"Avaleha, Khand, Pak Kalpana"
+31,Bilvadi Leha,"Jirna Pravahika, Aruchi, Agnimandya, Praseka, Chhardi",10 - 50 gm,NS,"Avaleha, Khand, Pak Kalpana"
+32,Brahama Rasayana,"Manodaurbalya, Jara, Smritibhransha",10-15 gm,NS,"Avaleha, Khand, Pak Kalpana"
+33,Chitraka Haritaki,"Pinasa, Kasa, Shvasa,",10 - 50 gm,"Pregnancy, Pitta Prakriti, Paittika Roga","Avaleha, Khand, Pak Kalpana"
+34,Chyavanprash Avaleha,"Kasa,Shvasa, Rasayana",12-24 gm,NS,"Avaleha, Khand, Pak Kalpana"
+35,Drakshavaleha,"Pandu, Kamala, Halimaka, Daurbalya, Kshaya",6-12 gm,NS,"Avaleha, Khand, Pak Kalpana"
+36,Haridrakhanda Paka,"Shitapitta, Kandu Visphota,Dadru,Udarda, Kotha",6 gm,NS,"Avaleha, Khand, Pak Kalpana"
+37,Kutajavaleha,"Atisara, Grahaniroga, Pravahika",6 -12 gm,NS,"Avaleha, Khand, Pak Kalpana"
+38,Kalyanak Guda,"Udararoga, Gulma, Bhagandar, Arsha",6-12 gm,NS,"Avaleha, Khand, Pak Kalpana"
+39,Kantakaryavaleha,"Hikka, Kasa, Shvasa, Jirna Pratishaya, Parshvashula",6-12 gm,NS,"Avaleha, Khand, Pak Kalpana"
+40,Kushmandaka Rasayana,"Kasa, Shvasa, Urahkshata, Kshaya, Raktapitta, Amlapitta",6-12 gm,NS,"Avaleha, Khand, Pak Kalpana"
+41,Puga Khanda/ Supari Paka,"Vandhyaroga, Pradara, Somaroga, Garbhadosha, Daurbalya",6-12 gm,NS,"Avaleha, Khand, Pak Kalpana"
+42,Saubhagyashunthi Paka,"Prasavottara Lakshana, Sutikaroga, Agnimandya,",10-50 gm,NS,"Avaleha, Khand, Pak Kalpana"
+43,Shatavariguda,"Rajodosha, Yonidosha, Asrigdara, Padadaha, Karshya",6-12 gm,NS,"Avaleha, Khand, Pak Kalpana"
+44,Vasavaleha,"Kasa , Shvasa, Jvara, Parshvashula",6-12 gm,Pregnancy,"Avaleha, Khand, Pak Kalpana"
+45,Vyaghri Haritaki,"Kasa, Shvasa, Svarakshaya, Pratishyaya, Pinasa",6-12 gm,Pregnancy,"Avaleha, Khand, Pak Kalpana"
+46,Dashamula Kvatha Churna,"Jvara, Sutikadosha, Shula, Shotha, Vatavyadhi",25-50 ml,"Rasakshaya, Bahumutrata",Kvatha Churna/Kashayam
+47,Dashmula Katutraya Kvatha Churna,"Shvasa,Kasa,Parshva shula, Vataroga",25-50 ml,NS,Kvatha Churna/Kashayam
+48,Dhanyapanchaka Kashaya Churna,"Amashula, Amatisara, Agnimandya, Aruchi",25-50 ml,NS,Kvatha Churna/Kashayam
+49,Guduchyadi Kashaya Churna,"Agnimandhya, Pitta Dushti, Jvara",25-50 ml,NS,Kvatha Churna/Kashayam
+50,Indukantam Kashayam Churna,"Vata Roga,Kshaya",25-50 ml,NS,Kvatha Churna/Kashayam
+51,Pancha-valkala Kashaya Churna,"Vranashotha,Upadan sha, Shveta Pradara",100 ml Kvatha for washing wound/ vaginal douche,NS,Kvatha Churna/Kashayam
+52,Pathyadi Kvatha(Shadanga) Churna,"Shiroroga, Bhrushankha-Karna Shula, Ardhavbhedaka, Suryavarta",25-50 ml,"Chhardi, Atisara, Ativirechana janya Rasakshaya, Vataprakopa",Kvatha Churna/Kashayam
+53,Phalatrikadi Kvatha Churna,"Kamala, Pandu",25-50 ml,"Chhardi, Atisara,Ativirechana janya Rasakshaya, Vataprakopa",Kvatha Churna/Kashayam
+54,Rasnasaptaka Kashaya Churna,"Janghashula, Urushula, Parshvashula, Trikshula, Prishashula",25-50 ml,Concomitant use of Eranda Taila in Garbhini,Kvatha Churna/Kashayam
+55,Shadanga Kvatha Churna,"Trishna,Jvara",25-50 ml,Nausea due to bitterness,Kvatha Churna/Kashayam
+56,Trinapanchamula Kvatha Churna,Mutrakricchra,25-50 ml,Nausea due to bitterness,Kvatha Churna/Kashayam
+57,Varunadi Kvatha Churna,"Ashmari, Mutrasthila",25-50 ml,Nausea due to bitterness,Kvatha Churna/Kashayam
+58,Vasaguduchyadi Kashaya Churna,"Pandu, Raktapitta",25-50 ml,Nausea due to bitterness,Kvatha Churna/Kashayam
+59,Amritadi Guggulu,"Vata Rakta, Dushtavrana, Charma Vikara",500 mg - 1 gm,Long term use in pregnancy,Guggulu
+60,Gokshuradi Guggulu,"Prameha, Mutrakricchra, Mutraghata, Ashmari, Pradara",500 mg - 1 gm,Long term use in pregnancy,Guggulu
+61,Kanchanara Guggulu,"Galaganda, Gandamala, Apachi, Arbuda, Granthi",500 mg - 1 gm,Long term use in pregnancy,Guggulu
+62,Kaishora Guggulu,"Vatashonita, Pramehapidika, Vrana, Kustha",Up - 3 gm,Long term use in pregnancy,Guggulu
+63,Lakshadi Guggulu,"Asthibhagna, Asthichyuti, Asthiruja",Up - 3 gm,Long term use in pregnancy,Guggulu
+64,Navak Guggulu,"Sthaulya, Sandhigata Vata",500 mg - 1 gm,Long term use in pregnancy,Guggulu
+65,Rasna Guggulu,"Gridhrasi, Amavata",500 mg - 1 gm,Long term use in pregnancy,Guggulu
+66,Simhanada Guggulu,"Amavata, Vatarakta, Sandhi Shula, Agnimandya",Up to 3 gm in divided doses,Pregnancy,Guggulu
+67,Saptavinshati Guggulu,"Parshvashula,Kasa Shvasa, Hritshula",Up to 3 gm in divided doses,Pregnancy,Guggulu
+68,Triphala Guggulu,"Bhagandara, Arsha, Nadi Vrana, Gulma, Shotha",Up to 3 gm in divided doses,Pregnancy Chronic or recurrent diarrhoea,Guggulu
+69,Trayodashanga Guggulu,"Gridhrasi, Sandhigraha, Katigraha",Up to 3 gm in divided doses,Pregnancy,Guggulu
+70,Punarnava Guggulu,"Vatarakta, Vriddhiroga, Gridhrasi,Vastigatas hula, Amavata",Up to 3 gm in divided doses,Pregnancy,Guggulu
+71,Yogaraja Guggulu,"Amavata, Agnimandya, Sandhigatavata",Up to 3 gm in divided doses,Pregnancy,Guggulu
+72,Brahmi Ghrita,"Apasmara, Unmada, Smritikshaya, Budhidaurbalya",10 - 15 gm,NS,Ghrita
+73,Dadimadi Ghrita,"Pandu, Parinamshula, Agnimandya",10-15 gm,NS,Ghrita
+74,Guggulutiktaka Ghrita,Vata Roga,5-10 gm,NS,Ghrita
+75,Jathyadi Ghrita,"Vrana, Dagdha Vrana",To be applied on affected part,NS,Ghrita
+76,Kalyanaka Ghrita,"Bhutonmada, Apsmara,Balagraha, Visavikara, Garavisha, Smritidaurbalya",10-15 gm,NS,Ghrita
+77,Kshirashatpala Ghrita,"Gulma, Grahaniroga, Pliha",Up to 50 gm,NS,Ghrita
+78,Panchatikta Ghrita,"Dushtavrana, Tvak Vikara",5-10 gm,NS,Ghrita
+79,Phala Ghrita,Yonivyapat,10-15 gm,NS,Ghrita
+80,Shatavaryadi Ghrita,Mutraghata,10-15 gm,NS,Ghrita
+81,Sukumar Ghrita,"Vidvibandha, Udararoga, Gulma, Yonishula, Pliharoga",10-15 gm,NS,Ghrita
+82,Indu kanta Ghrita,"Shula, Udara, Vishama Jvara",10-15 gm,NS,Ghrita
+83,Tiktaka Ghrita,Tvakroga,10-15 gm,NS,Ghrita
+84,Triphala Ghrita,"Kamala, Timira, Netraroga, Visarpa, Khalitya",10-15 gm,NS,Ghrita
+85,Ajamodadi Churna,"Shula, Gridhrasi, Amvata",3-6 gm,NS,Churna - Multi-ingredient
+86,Avipattikara Churna,"Amlapitta, Vidagdhajirna", 3-6 gm,NS,Churna - Multi-ingredient
+87,Balachaturbhadra Churna,"Jvara, Atisara, Bala Shosha",250 - 500 mg,NS,Churna - Multi-ingredient
+88,Bilvadi Churna,"Shotha,Shula Yukta Bradhna",3-6 gm,NS,Churna - Multi-ingredient
+89,Dadimastak Churna,"Grahaniroga, Atisara, Aruchi",3-6 gm,NS,Churna - Multi-ingredient
+90,Dashanasanskara Churna,"Mukha Roga, Danta Roga",Use as tooth powder,NS,Churna - Multi-ingredient
+91,Eladi Churna,"Kasa, Shvasa",2 -4 gm,NS,Churna - Multi-ingredient
+92,Hingvashtaka Churna,"Agnimandya, Shula, Gulma,Vataroga",2- 4 gm,NS,Churna - Multi-ingredient
+93,Lavanabhaskara Churna/ Bhaskarlavan churna,"Agnimandya, Gulma, Ajirna, Grahaniroga, Vatakaphajaroga,",3-6 gm,"Shotha, Jalodara, hyperten sion, long term use",Churna - Multi-ingredient
+94,Nisha-Amalaki Churna,"Prameha, Madhumeha",3-6 gm,NS,Churna - Multi-ingredient
+95,Pushyanuga Churna,"Raktapradara, Shwetapradara, Raktarsha",2-3 gm,NS,Churna - Multi-ingredient
+96,Panchanimba Churna,"Kshudrakushtha, Mahakushtha, Raktadushti",3- 5 gm,NS,Churna - Multi-ingredient
+97,Sitopaladi Churna,"Shvasa, Kasa, Kshaya, Urdhvaga Raktapitta",2-3gm,NS,Churna - Multi-ingredient
+98,Talishadya Churna,"Kasa, Shvasa, Pratishyaya, Jvara",2-4 gm,NS,Churna - Multi-ingredient
+99,Trikatu Churna,"Arochaka, Ama, Agnimandya",1-2 gm,"Paittika Vikara or Prakriti, Raktaj Roga, pregnancy, long term use",Churna - Multi-ingredient
+100,Triphala Churna,"Anaha, Prameha, Netraroga",3-6 gm,Dehydration,Churna - Multi-ingredient
+101,Jatiphaladya Churna,"Atisara, Pravahika, Vatashlaismika Pratishyaya",1-3 gm,"Infantile diarrhea, long term use",Churna - Multi-ingredient
+102,Amalaki Churna,"Prameha, Raktapitta, Amlapitta,Daha",3-6 gm,NS,Churna - Single Ingredient
+103,Arjuna Churna,"Hridroga, Prameha",3-6 gm,NS,Churna - Single Ingredient
+104,Ashvagandha Churna,"Kshaya, Daurbalya, Vatroga,Klaivya",3-6 gm,Long term use may increase blood pressure,Churna - Single Ingredient
+105,Gokshura Churna,"Mutraghata, Mutrashmari, Vrishya, Rasayana",2-5 gm,NS,Churna - Single Ingredient
+106,Guduchi Churna,"Kushtha, Jvara,Vatarakta,Kam ala,Pandu, Prameha",3-6 gm,NS,Churna - Single Ingredient
+107,Haritaki Churna,"Vibandha, Udararoga",3-6 gm,"Debility, pregnancy, dehydration, Paittika Roga,",Churna - Single Ingredient
+108,Pippali Churna,"Rasayana, Jvara, Shvasa, Kasa",1-2 gm,Long term use in higher doses,Churna - Single Ingredient
+109,Pippali mula Churna,"Udararoga, Anaha, Gulma, Shiroroga",500mg -1 gm,NS,Churna - Single Ingredient
+110,Punarnava Churna,"Shotha, Pandu",2-3 gm,NS,Churna - Single Ingredient
+111,Shunthi Churna,"Amavata, Agnimandya Udararoga,Shvasa",2- 3 gm,NS,Churna - Single Ingredient
+112,Sarasvata Churna,"Medhya, Smriti and Buddhi Vardhaka",1-2 gm,NS,Churna - Single Ingredient
+113,Trivritamul Churna / Trivrita Churna,"Malabandha, Gulma, Udararoga",2-3gm,"Dehydrat ion, malnutrit ion, long term use",Churna - Single Ingredient
+114,Vidanga Churna,"Krimiroga, Medoroga",5-10 gm,May prevent or disrupt conception,Churna - Single Ingredient
+115,Yashtimadhu/ Madhuyashti/ Yashti Churna,"Rasayana,Kasa, Shvasa, Vranaropana, Kshaya, Svarbheda",Up to 12 gm,"Obesity, hypertension, oedema, long term use",Churna - Single Ingredient
+116,Anutaila,"Urdhvajatrugataroga, Palitya",2-10 drops for nasal administration,NS,Taila
+117,Apamargkshara Taila,"Badhirya, Karnanada, Karnagutha",2-5 drops in each ear,NS,Taila
+118,Bala Taila,"Kshata,Kshaya, Vatavyadhi, Shosha, Gulma",For Abhyanga,NS,Taila
+119,Balashvagandhadi Taila,Balaroga,For Jwara,NS,Taila
+120,Bhringaraja Tail,"Keshapata, Shiroroga, Khalitya, Indralupta","For Nasya, Shiroabhyanga, Kavalgraha",NS,Taila
+121,Dhanvantar Taila/Dhanvantar Taila Avarti,"Vataroga, Pakshavadha, Dhatukshaya, Sutikaroga, Balaroga",10-30 drops for internal use,Amadosha,Taila
+122,Eranda Taila,"Vatavikara,Gridhrasi, Vibandha, Katishula",10-30 ml,"Peri- conception period, long term use in pregnancy",Taila
+123,Erimedadi Taila,"Mukha Roga , Dantaroga","For Kavalgraha, Pratisarana, Nasya, Shirodharana",NS,Taila
+124,Gandharvahasta Taila,"Vidradhi, Udara, Mahavataroga, Gulma, Udavarta",6-12 ml,"Ajirna, Amavast ha",Taila
+125,Jatyadi Taila,"Vrana, Vranashotha",Application on wound or injury,NS,Taila
+126,Kshirbala Taila / Kshirbala Taila Avarti (Shatapaki),"Vatarakta, Vataroga, Sukradosha, Rajodosha, Karshya",Internal use: 10- 12 ml External use: Abhyanga and Nasya,NS,Taila
+127,Kottamachukkadi Taila,"Vataroga, Amavata, Angasthambha",For Abhyanga,NS,Taila
+128,Karpuradi Taila,"Khalli, Angavedana, Sandhivedana",For Abhyanga,NS,Taila
+129,Kasisadi Taila,Arsha,External use for Arshankura,NS,Taila
+130,Laghuvishagarbha Taila,"Vataroga, Pakshaghat",For Abhyanga,NS,Taila
+131,Marichyadi Taila,"Kandu, Vicharchika",Application on affected part,NS,Taila
+132,Mahanarayan Taila,"Vataroga, Pakshaghata, Ardita, Vandhyatva","For Abhyanga, Nasya, Anuvasana Vasti",NS,Taila
+133,Brihanmasha Taila /Mahamash Taila,"Ardita , Shirokampa, Vidradhi, Bahushosha, Avabahuka",For Abhyanga,NS,Taila
+134,Murivenna Tail,Abhighataja Vedana and Vata Vikara,For Abhyanga,NS,Taila
+135,Narayana Taila,"Vataroga, Pangu, Shirogatavata, Manyastambha, Hanustambha","Internal use: 6 gm External use: f Nasya, Abhyanga and Anuvasana Vasti",NS,Taila
+136,Nalpamaradi Taila,"Tvakroga, Kushta, Pama, Kandu","For Pratisarana, Abhyanga",NS,Taila
+137,Nirgundi Taila,"Nadivrana, Pama, Apachi, Gandamala, Galaganda",Internal use: 15- 30 ml External use: Abhyanga and 2-6 drops for Nasya or Karnapuran,NS,Taila
+138,Panchaguna Taila,"Sandhigatvata, Karnashula,Vrana","For Abhyanga, wound dressing Karnapurana or Karnabindu",NS,Taila
+139,Pinda Taila,"Vataraktaruja, Daha",Used externally for Abhyanga,NS,Taila
+140,Prasarini Taila,"Vataroga,Gridhrasi, Khanja, Panguvata",For Abhyanga over affected body part,"Not to be used in Guda roga, Krisha rogi, Ajirna, Vamit, Kritnasy a, Virikta",Taila
+141,Sahacharadi Taila/ Brihatsahcharadi Taila,"Vatavyadhi, Kampa, Unmada, Pinasa, Yoniroga, Akshepa",Internal use: 6-12 ml External use for Abhyanga,NS,Taila
+142,Saindhavadi Taila,Kaphavataja Nadivrana,For Abhyanga,NS,Taila
+143,Shadabindu Taila,"Drishtidaurbalya, Keshashata, Shiroroga","For Nasya, Kavalgraha, Abhyanga, Shiroabhyanga",NS,Taila
+144,Somaraji Taila /Bakuchi Taila,"Shvitra, Kushtha",For local application on affected body part,"Disconti -nue if excessive irritation, vescicati on, extensive hyperpig mentation appears",Taila
+145,Apamarga Kshar,"Gulma, Grahani, Shvasa, Sharkara, Ashmari",125-500 mg,NS,Lavana & Kshara
+146,Yavakshar,"Adhamana, Anaha, Gulma, Mutrakricchra",500 mg - 1 gm,NS,Lavana & Kshara
+147,Ksharsutra,"Bhagandara, Arsha, Nadivrana, Charmkila",To be applied on affected part,NS,Lavana & Kshara
+148,Dashanga Lepa,"Visarpa, Sthanika Shotha, Kushtha",To apply on affected part,NS,Lepa for local application
+149,Shveta Malaham,Agnidagdha,To apply on affected part,NS,Lepa for local application
+150,Sarjarasa Malahara,"Dushta Vrana, Arsha, Gudapaka, Vidarika",To apply on affected part,NS,Lepa for local application
+151,Abhayadi Modakam,Malabandha,2-4 modakam,NS,Vati & Gutika
+152,Bilvadi Gutika,"Vishuchika, Ajirna, Garadosha, Jvara",1-2 pills,NS,Vati & Gutika
+153,Chandraprabha Vati,"Prameha, Mutrakricchra, Mutraghata, Ashmari, Striroga, Daurbalya, Pandu, Kamala",250 mg,NS,Vati & Gutika
+154,Chitrakadi Gutika,"Agnimandya, Amadosha, Grahaniroga",250-500 mg,"Pregnancy, Uterine bleeding, Pitta Prakriti, Raktpittaj Roga, long term use",Vati & Gutika
+155,Dhanvantar Gutika,"Kasa, Shvasa, Hridroga, Yakshma,Hikka",250 -500 mg,NS,Vati & Gutika
+156,Eladi Gutika,"Kasa, Shvasa, Chhardi, Bhrama, Svarabheda, Raktanishthivana",500 mg -1 gm,NS,Vati & Gutika
+157,Kankayan Gutika,"Gulma, Krimi, Arsha",500 mg- 1 gm,NS,Vati & Gutika
+158,Khadiradi Gutika (Mukhroga),"Mukhdaurgandhya, Mukhapaka, Dantaroga, Galaroga",1 - 2 pills,NS,Vati & Gutika
+159,Kutajaghan Vati,"Atisara, Grahani, Jvaratisara",250-500 mg,NS,Vati & Gutika
+160,Lavangadi Vati,"Kasa, Shvasa",1-2 pills,NS,Vati & Gutika
+161,Lahsunadi Vati,"Visuchika, Ajirna, Atisara",500 mg -1 gm,"Hyperacidity, Peptic Ulcer, Pitta Prakriti, history of Raktapitt aja Vikara",Vati & Gutika
+162,Prabhakara Vati,"Hridroga, Daurbalya",125-250 mg,NS,Vati & Gutika
+163,Rajahpravartini Vati,"Rajorodha, Kastartava",250 mg,"Pregnancy, lactation, excessive Uterine Bleeding, kidney disease, discontinue in case of severe abdominal pain",Vati & Gutika
+164,Samshamani Vati / Guduchighana Vati,"Jvara, Jirna Jvara, Vishma Jvara, Daha",250-500 mg,NS,Vati & Gutika
+165,Sarpagandhaghana Vati,"Anidra, Manodvega",250-500 mg,"Concomitant use of medicines made of Vatsanab ha or Gok shuru, anti hyperten sives/ depressa nts/ psychotropic medicines postural hypotens ion, bradycar dia",Vati & Gutika
+166,Sanjivani Vati,"Mandagni, Ajirna, Gulma, Visuchika, Sarpadamsha",125 mg,"Pitta Prakriti individuals, hyper sensitivity to Bhallataka, patients having history of Raktapittaja Vikara, pregnancy,cardiac arrhythmia, long term use",Vati & Gutika
+167,Vettumaran Gulika,"Jvara, Chhardi, Mutraghata, Gulma",250-375 mg,NS,Vati & Gutika
+168,Elanirkuzambu/Nalikeranjana,"Netravrana, Arma, Timira, Pittaja Netraroga, Abhishyanda",1-2 drops to be instilled in eyes,NS,"Varti, Netrabindu, Anjana"
+169,Guduchi Sattva,"Jvara, Vatarakta, Kamala, Prameha",500 mg- 1gm,NS,Sattva
+170,Panchamrita Parpati,"Grahani, Atisara, Agnimandya, Kshaya",125- 250 mg,"Peri- concepti onal period, pregnanc y, lactation period, kidney disease, small children",Parpati
+171,Shveta Parpati/Kshara Parpati,"Ashmari, Mutrakriccha, Mutraghata",500 mg- 1 gm,NS,Parpati
+172,Akika Pishti,"Hriddaha, Hridroga, Kshaya, Shiroroga, Kasa,",125 -- 250 mg,NS,Pishti Kalpana
+173,Mukta Pishti,"Manodosha, Unmada,Hridroga",65-125 mg,NS,Pishti Kalpana
+174,Pravala Pishti,"Kasa, Pittaroga, Manodaurbalya, Ojakshya, Hridroga",250 mg,NS,Pishti Kalpana
+175,Godanti Bhasma,"Shirahshula, Pitta Jvara, Jirnajvara, Daha","500 mg- 1 gm with ghee, sugar, warm milk or water",NS,Bhasma
+176,Jaharamohara Bhasma,"Hridroga, Raktapitta, Arsha, Raktaj Pravahika",250- 500 mg,NS,Bhasma
+177,Kapardika Bhasma,"Parinamashula, Agnimandya, Karnasrava",250 mg,Not to be used on change of physical character istics,Bhasma
+178,Mandur Bhasma,"Kamala, Pandu",250-500 mg,NS,Bhasma
+179,Muktashukti Bhasma,"Udarashula,Jvara, Pitta Jvara, Raktajroga",250-500 mg,NS,Bhasma
+180,Shankha Bhasma,"Agnimandya, Amlapitta, Vidagdhajirna, Parinamashula,",250 mg,NS,Bhasma
+181,Sphatika Bhasma,"Jvara, Kaphaja Vrana, Shvitra, Visarpa,, Raktasrava, Yonibhransha",125-250 mg,NS,Bhasma
+182,Tankana Bhasma/ Saubhagya Bhasma,"Kasa, Shvasa",125 - 250 mg,NS,Bhasma
+183,Punarnavadi Mandura,"Pandu, Shotha, Pliharoga",250-500 mg,NS,Mandura
+184,Arogyavardhini Vati/Rasa,"Kushta, Medoroga, Jvara",250-500 mg,"Old age, paediatric age group, periconc eptional period, pregnancy, lactation period, kidney disease, karshaya",Rasayoga
+185,Arsho Kuthara Rasa,Arsha,250 mg,NS,Rasayoga
+186,Brahmi Vati,"Bhrama, Manoroga, Aptantrak, Akshepa, Hriddaurbalya",125-250 mg,NS,Rasayoga
+187,Gandhak Rasayana,"Kushta, Raktadushti, Prameha",250-500 mg,"Hypersensitivity, loose motions",Rasayoga
+188,Kamadudha Rasa,"Amlapitta, Raktapitta, Daha, JirnaJvara, Pradara",125-250 mg,NS,Rasayoga
+189,Laghumalini Vasanta Rasa,"Kshaya, Yakshma, Pradara, Netraroga, Arsha, JirnaJvara",125- 250 mg,"Kidney disease, long term use",Rasayoga
+190,Laghu Sutashekhara Rasa,"Pittaja Shirahshula, Ardhavbhedaka, Suryavarta, Daha, Urdhvaga raktapitta",250-500mg,"Long term use, pregnancy lactation period, paediatric age group",Rasayoga
+191,Navajivana Rasa,"Hridya , Balya, Shulahara",625-125 mg,"Long term use, hyperten sion, pregnancy",Rasayoga
+192,Shankha Vati,"Grahani, Atisara, Amajirna, Visuchika, Shula",250-500 mg in divided doses,"Kidney disease, bradycardia, arrhythmia, hypotension, long term use, peri- conceptional period , pregnancy,lactating mothers and debilitate patients",Rasayoga
+193,Shirahshuladi vajra Rasa,"Shirahshula, Shiroroga",250-500 mg in single or divided dose,"Kidney disease, long term use, peri- conceptional period, pregnancy, lactating mothers, debilitayed patients",Rasayoga
+194,Shvasakuthara Rasa,"Kasa, Shvasa, Vatakaphaja Roga",125-250 mg,"Kidney disease, bradycardia, arrhythmia, hypotension, long term administ ration, periconceptional period, pregnancy, lactating mothers, debilitate patients",Rasayoga
+195,Smritisagara Rasa,"Apasmara, Smriti Daurbalya",125-250 mg,NS,Rasayoga
+196,Tribhuvankirti Rasa,"Jvara, Pratishyaya, Kasa",125-250 mg,"Bradycardia, arrhythmias, small children, Vrikka Roga, long term administration, periconceptional period, pregnancy, debilitate patients",Rasayoga
+197,Vatagajankusha Rasa,"Vata Roga, Avabahuka, Urustambha, Pakshaghata,Gridhrasi",250 mg,"Long term use, Vrikka Roga, periconceptional period, pregnancy, lactation and debilitate patients",Rasayoga
+198,Vatavidhavansan Rasa,"Vatajashula, Sutika Vata, Grahaniroga",250 mg,NS,Rasayoga
+199,Navayasa Lauha,"Pandu, Kamala, Hridroga",250 mg,NS,Lauha
+200,Saptamrita Lauha,"Timira, Drishtimandya",250 mg,NS,Lauha
